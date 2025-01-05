@@ -43,5 +43,7 @@ This is a simple weather app that fetches real-time weather data using the [Open
 
 ## Output
 Here is an example of how the weather app will look after entering a city name:
-![Weather App Screenshot](images/weather-app-paris.png)
+![Weather App Screenshot](images/paris.png)
+
+![Weather App Screenshot](images/hyderabad.png)
 
